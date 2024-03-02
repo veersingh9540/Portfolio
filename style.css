@@ -837,6 +837,12 @@ footer span a:hover{
     #Experience .title::after{
         display: none;
     }
+    #References .title::after{
+        display: none;
+    }
+    #recomm::after{
+        display: none;
+    }
     .teams .title::after{
         display:none;
     }
